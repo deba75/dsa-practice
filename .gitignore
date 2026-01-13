@@ -1,0 +1,9 @@
+# Ignore all JSON files
+*.json
+
+# Ignore executables
+*.exe
+*.out
+
+# Ignore VS Code settings
+.vscode/
